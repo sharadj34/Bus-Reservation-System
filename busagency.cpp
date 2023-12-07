@@ -393,7 +393,7 @@ int main()
       break;
 
     case 5:  {
-      cout<<"Successfully Logged out from the Application. Visit Again!"<<endl<<"<Thanks You :)>"<<endl<<"Created By Sourav Mondal"<<endl;
+      cout<<"Successfully Logged out from the Application. Visit Again!"<<endl<<"<Thanks You :)>"<<endl<<"Created By Sharad Jha"<<endl;
       exit(0);
     };
 
